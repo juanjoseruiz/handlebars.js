@@ -4,7 +4,7 @@
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/handlebars/badge?style=rounded)](https://www.jsdelivr.com/package/npm/handlebars)
 
 Handlebars.js
-=============
+============= 
 
 Handlebars provides the power necessary to let you build **semantic templates** effectively with no frustration.
 Handlebars is largely compatible with Mustache templates. In most cases it is possible to swap out Mustache with Handlebars and continue using your current templates.
